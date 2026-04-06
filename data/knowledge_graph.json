@@ -1,0 +1,60 @@
+{
+  "knowledge_base": [
+    {
+      "term": "ASA",
+      "full_name": "acetylsalicylic acid",
+      "ukr_term": "ацетилсаліцилова кислота",
+      "context": "antipyretic, anti-inflammatory",
+      "notes": "common name: aspirin"
+    },
+    {
+      "term": "gr",
+      "full_name": "grain",
+      "conversion": "64.8 mg",
+      "context": "apothecary weight system"
+    },
+    {
+      "term": "tsp",
+      "full_name": "teaspoon",
+      "volume": "5 ml",
+      "ukr_term": "чайна ложка",
+      "context": "liquid dosage"
+    },
+    {
+      "term": "tbsp",
+      "full_name": "tablespoon",
+      "volume": "15 ml",
+      "ukr_term": "столова ложка",
+      "context": "liquid dosage"
+    },
+    {
+      "term": "TID",
+      "meaning": "three times a day",
+      "latin": "ter in die",
+      "ukr_instruction": "тричі на добу"
+    },
+    {
+      "term": "BID",
+      "abbreviation_meaning": "twice a day",
+      "latin": "bis in die",
+      "ukr_instruction": "двічі на добу"
+    },
+    {
+      "term": "PO",
+      "latin": "per os",
+      "meaning": "by mouth / orally",
+      "ukr_translation": "перорально (через рот)"
+    },
+    {
+      "term": "MMR",
+      "full_name": "measles, mumps, rubella",
+      "ukr_translation": "КПК (кір, паротит, краснуха)"
+    },
+    {
+      "term": "GLP-1",
+      "full_name": "glucagon-like peptide-1",
+      "ukr_term": "ГПП-1 (глюкагоноподібний пептид-1)",
+      "class": "receptor agonists"
+    }
+  ]
+}
