@@ -55,6 +55,34 @@
       "full_name": "glucagon-like peptide-1",
       "ukr_term": "ГПП-1 (глюкагоноподібний пептид-1)",
       "class": "receptor agonists"
+    },
+    {
+      "term": "oz",
+      "full_name": "ounce",
+      "weight_conversion": "28.35 g",
+      "volume_conversion": "29.57 ml (fl oz)",
+      "ukr_term": "унція",
+      "context": "unit of weight or volume"
+    },
+    {
+      "term": "Augmentin",
+      "components": "amoxicillin + clavulanic acid",
+      "ukr_term": "Аугментин",
+      "context": "antibiotic",
+      "pediatric_note": "doses often calculated in mg/kg"
+    },
+    {
+      "term": "lb",
+      "full_name": "pound",
+      "conversion": "0.453 kg",
+      "ukr_term": "фунт",
+      "context": "unit of weight"
+    },
+    {
+      "term": "GI bleeding",
+      "full_name": "gastrointestinal bleeding",
+      "ukr_term": "шлунково-кишкова кровотеча",
+      "context": "adverse effect / medical condition"
     }
   ]
 }
