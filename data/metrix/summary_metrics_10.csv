@@ -1,0 +1,8 @@
+Scenario,BLEU,METEOR,COMET
+Gemini_base,46.27,0.7089,0.8811
+Gemini_formal,57.53,0.6798,0.8978
+Gemini_patient,38.51,0.5373,0.8713
+Gemini_knowledge,46.75,0.5797,0.8682
+Gemini_graph,54.33,0.7311,0.905
+Gemini_graph_expert,47.28,0.6647,0.8525
+Gemini_graph_patient,30.69,0.5189,0.8405

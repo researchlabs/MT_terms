@@ -1,0 +1,8 @@
+Scenario,Mean_LLM_Score
+Gemini_base,2.2
+Gemini_formal,2.4
+Gemini_patient,2.1
+Gemini_knowledge,2.1
+Gemini_graph,2.5
+Gemini_graph_expert,2.7
+Gemini_graph_patient,2.5

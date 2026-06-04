@@ -3,7 +3,8 @@
     {
       "term": "ASA",
       "full_name": "acetylsalicylic acid",
-      "ukr_term": "ацетилсаліцилова кислота",
+      "expert_term": "ацетилсаліцилова кислота",
+      "patient_term": "аспірин",
       "context": "antipyretic, anti-inflammatory",
       "notes": "common name: aspirin"
     },
@@ -11,50 +12,66 @@
       "term": "gr",
       "full_name": "grain",
       "conversion": "64.8 mg",
+      "expert_term": "гран (64,8 мг)",
+      "patient_term": "таблетка дозуванням 64,8 мг",
       "context": "apothecary weight system"
     },
     {
       "term": "tsp",
       "full_name": "teaspoon",
       "volume": "5 ml",
-      "ukr_term": "чайна ложка",
+      "expert_term": "5 мл (перорально)",
+      "patient_term": "чайна ложка",
       "context": "liquid dosage"
     },
     {
       "term": "tbsp",
       "full_name": "tablespoon",
       "volume": "15 ml",
-      "ukr_term": "столова ложка",
+      "expert_term": "15 ml (перорально)",
+      "patient_term": "столова ложка",
       "context": "liquid dosage"
     },
     {
       "term": "TID",
       "meaning": "three times a day",
       "latin": "ter in die",
-      "ukr_instruction": "тричі на добу"
+      "ukr_instruction": "тричі на добу",
+      "expert_term": "3 рази на добу",
+      "patient_term": "три рази на день (наприклад: ранок, обід, вечір)",
+      "context": "dosage frequency"
     },
     {
       "term": "BID",
       "abbreviation_meaning": "twice a day",
       "latin": "bis in die",
-      "ukr_instruction": "двічі на добу"
+      "ukr_instruction": "двічі на добу",
+      "expert_term": "2 рази на добу",
+      "patient_term": "два рази на день (наприклад: ранок та вечір)",
+      "context": "dosage frequency"
     },
     {
       "term": "PO",
       "latin": "per os",
       "meaning": "by mouth / orally",
-      "ukr_translation": "перорально (через рот)"
+      "ukr_translation": "перорально (через рот)",
+      "expert_term": "перорально",
+      "patient_term": "через рот (ковтати)"
     },
     {
       "term": "MMR",
       "full_name": "measles, mumps, rubella",
-      "ukr_translation": "КПК (кір, паротит, краснуха)"
+      "ukr_translation": "КПК (кір, паротит, краснуха)",
+      "expert_term": "вакцина КПК (кір, паротит, краснуха)",
+      "patient_term": "щеплення проти кору, свинки (паротиту) та краснухи",
+      "context": "vaccination"
     },
     {
       "term": "GLP-1",
       "full_name": "glucagon-like peptide-1",
-      "ukr_term": "ГПП-1 (глюкагоноподібний пептид-1)",
-      "class": "receptor agonists"
+      "expert_term": "ГПП-1 (глюкагоноподібний пептид-1)",
+      "patient_term": "гормон кишечника ГПП-1 (що регулює апетит)",
+      "context": "receptor agonists"
     },
     {
       "term": "oz",
@@ -62,12 +79,15 @@
       "weight_conversion": "28.35 g",
       "volume_conversion": "29.57 ml (fl oz)",
       "ukr_term": "унція",
+      "expert_term": "унція (28,35 г для мазей / 29,57 мл для рідин)",
+      "patient_term": "унція (приблизно 28 грамів порошку або мазі / 30 мл рідини)",
       "context": "unit of weight or volume"
     },
     {
       "term": "Augmentin",
       "components": "amoxicillin + clavulanic acid",
-      "ukr_term": "Аугментин",
+      "expert_term": "Аугментин",
+      "patient_term": "Аугментин (антибіотик)",
       "context": "antibiotic",
       "pediatric_note": "doses often calculated in mg/kg"
     },
@@ -76,12 +96,15 @@
       "full_name": "pound",
       "conversion": "0.453 kg",
       "ukr_term": "фунт",
+      "expert_term": "фунт (0,453 кг)",
+      "patient_term": "фунт (приблизно пів кілограма ваги тіла)",
       "context": "unit of weight"
     },
     {
       "term": "GI bleeding",
       "full_name": "gastrointestinal bleeding",
-      "ukr_term": "шлунково-кишкова кровотеча",
+      "expert_term": "шлунково-кишкова кровотеча",
+      "patient_term": "кровотеча у шлунку або кишечнику",
       "context": "adverse effect / medical condition"
     }
   ]
